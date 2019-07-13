@@ -1,2 +1,2 @@
-# recepe-app-api
-Recepe app API source code.
+# Hanna-app-api
+Hanna app API source code.
